@@ -1,0 +1,26 @@
+ nav{
+    background-color: rgb(93, 95, 90);
+    text-align:right;
+}
+
+body {
+    background-color: black;
+    color:white
+}
+
+h1{
+    color:crimson
+}
+
+a:link {
+    color: rgb(204, 6, 187);
+    background-color: transparent;
+    
+  }
+
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
