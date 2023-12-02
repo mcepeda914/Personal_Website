@@ -14,7 +14,7 @@ h1{
 }
 
 a:link {
-    color: rgb(204, 6, 187);
+    color: rgb(219, 96, 209);
     background-color: transparent;
     
   }
@@ -33,4 +33,24 @@ img {
 
 h1 {
   font-size: 40px;
+}
+
+h2 {
+  font-size: 35px;
+  color:darkmagenta;
+  letter-spacing: 8px;
+}
+
+#intro {
+  font-size: 20px;
+  color:rgb(222, 238, 238);
+}
+
+#quote {
+  font-size: 40px;
+  color:rgb(77, 9, 34);
+}
+
+p {
+  color:antiquewhite
 }
