@@ -1,19 +1,20 @@
  nav{
-    background-color: rgb(93, 95, 90);
+    background-color: rgb(94, 4, 4);
     text-align:right;
 }
 
 body {
     background-color: black;
-    color:white
+    color:rgb(10, 10, 10)
 }
 
 h1{
-    color:crimson
+    color:rgb(231, 227, 228)
+    
 }
 
 a:link {
-    color: rgb(204, 6, 187);
+    color: rgb(219, 96, 209);
     background-color: transparent;
     
   }
@@ -24,3 +25,40 @@ a:link {
     text-decoration: underline;
   }
 
+img {
+    height: 300px;
+    margin: 2%;
+    float:right
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 35px;
+  color:darkmagenta;
+  letter-spacing: 8px;
+}
+
+#intro {
+  font-size: 20px;
+  color:rgb(222, 238, 238);
+}
+
+#quote {
+  font-size: 40px;
+  color:rgb(77, 9, 34);
+}
+
+p {
+  color:antiquewhite
+}
+
+#projects {
+  height:100px;
+}
+
+#aboutimage {
+  height:100px;
+}
