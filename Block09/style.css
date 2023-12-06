@@ -1,34 +1,33 @@
- nav{
-    background-color: rgb(94, 4, 4);
-    text-align:right;
+nav {
+  background-color: rgb(94, 4, 4);
+  text-align: right;
 }
 
 body {
-    background-color: black;
-    color:rgb(10, 10, 10)
+  background-color: black;
+  color: rgb(10, 10, 10);
 }
 
-h1{
-    color:rgb(231, 227, 228)
-    
+h1 {
+  color: rgb(231, 227, 228);
 }
 
 a:link {
-    color: rgb(219, 96, 209);
-    background-color: transparent;
-    
-  }
+  color: rgb(219, 96, 209);
+  background-color: transparent;
+}
 
-  a:hover {
-    color: red;
-    background-color: transparent;
-    text-decoration: underline;
-  }
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
 
 img {
-    height: 300px;
-    margin: 2%;
-    float:right
+  height: 300px;
+  margin: 2%;
+  float: right;
+  border: solid red;
 }
 
 h1 {
@@ -37,28 +36,67 @@ h1 {
 
 h2 {
   font-size: 35px;
-  color:darkmagenta;
+  color: darkmagenta;
   letter-spacing: 8px;
 }
 
 #intro {
   font-size: 20px;
-  color:rgb(222, 238, 238);
+  color: rgb(222, 238, 238);
 }
 
 #quote {
   font-size: 40px;
-  color:rgb(77, 9, 34);
+  color: rgb(77, 9, 34);
 }
 
 p {
-  color:antiquewhite
+  color: antiquewhite;
 }
 
 #projects {
-  height:100px;
+  height: 100px;
+}
+
+form {
+  color: rgb(182, 14, 95);
+}
+
+.images {
+  height: 80%;
+  width: 100%;
+  border: 1px solid rgb(219, 13, 13);
+  float: left;
+}
+
+.photo1 {
+  float: left;
+  border: 5px solid rgb(110, 50, 50);
+  display: inline-block;
+  margin: 1px 10px;
+}
+
+.photo2 {
+  float: left;
+  border: 5px solid rgb(110, 50, 50);
+  display: inline-block;
+  margin: 1px 10px;
+}
+
+.photo3 {
+  float: left;
+  border: 5px solid rgb(110, 50, 50);
+  display: inline-block;
+  margin: 1px 10px;
+}
+
+.aboutphoto {
+  float: left;
+  border: 5px solid rgb(110, 50, 50);
+  display: inline-block;
+  margin: 1px 10px;
 }
 
 #aboutimage {
-  height:100px;
+  height: 140px;
 }
